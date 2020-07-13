@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountryList should render correctly in "debug" mode 1`] = `
+<Container
+  countryList={Array []}
+  error={null}
+  handleOnChange={[Function]}
+  handleOnChangePage={[Function]}
+  handleOnSizeChange={[Function]}
+  loading={false}
+  onClose={[Function]}
+  pagination={false}
+/>
+`;
